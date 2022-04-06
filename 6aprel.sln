@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6aprel", "6aprel\6aprel.csproj", "{E4816C80-D93A-48F6-B889-0D191FC27C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{6699F7FB-98EB-4598-B4DC-260CF9C16E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4816C80-D93A-48F6-B889-0D191FC27C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4816C80-D93A-48F6-B889-0D191FC27C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4816C80-D93A-48F6-B889-0D191FC27C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4816C80-D93A-48F6-B889-0D191FC27C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6699F7FB-98EB-4598-B4DC-260CF9C16E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6699F7FB-98EB-4598-B4DC-260CF9C16E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6699F7FB-98EB-4598-B4DC-260CF9C16E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6699F7FB-98EB-4598-B4DC-260CF9C16E82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43D969A8-A1D4-422C-8654-07146CB746C4}
+	EndGlobalSection
+EndGlobal
